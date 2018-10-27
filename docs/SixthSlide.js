@@ -9,8 +9,8 @@ class SixthSlide extends React.PureComponent {
         <p>
           If you find bugs, request features or have questions please open issues.
         </p>
-        <a href="/">
-          <img src={mark} />
+        <a target="_blank" href="https://middle-way-approach.github.io/react-nav-grid/">
+          <img alt="Github logo" src={mark} />
         </a>
       </PlaneContent>
     );

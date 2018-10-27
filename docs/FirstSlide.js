@@ -16,7 +16,7 @@ class FirstSlide extends React.PureComponent {
         </p>
         <p>
           These slides give a little interactive overview over the props of the component and
-          showcase a use case. For full documentation check the <a href="/">readme</a>.
+          showcase a use case. For full documentation check the <a target="_blank" href="https://middle-way-approach.github.io/react-nav-grid/">readme</a>.
         </p>
       </PlaneContent>
     );
